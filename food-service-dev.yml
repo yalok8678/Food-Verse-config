@@ -14,4 +14,4 @@ info:
   app:
     name: "Food Service"
     description: "This is dev phase"
-    version: "1.0V"
+    version: "{cipher}30d2c30a6f529194bd40ea64a18e4d7b1ad49f8dc4065c76a4c6fb9e0c18d138b53563e58840d60f0eed0fb870ea3cb4"
