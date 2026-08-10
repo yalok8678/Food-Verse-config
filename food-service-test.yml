@@ -1,0 +1,16 @@
+server:
+  port: 9099
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+  info:
+    env:
+      enabled: true
+info:
+  app:
+    name: "Food Service"
+    description: "This is test phase"
+    version: "1.0V"
